@@ -53,7 +53,6 @@ Edit
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/my-portfolio.git
 cd my-portfolio
 2. Install Dependencies
@@ -81,15 +80,19 @@ npm run preview
 This portfolio is continuously deployed using Vercel. On every push to the main branch, Vercel auto-builds and deploys the project.
 
 📸 Screenshots
-Include preview images or animated gifs of the website here.
+<img width="1418" alt="image" src="https://github.com/user-attachments/assets/b8cb18e4-a90d-4f15-8110-902a332cf20e" />
+<img width="1397" alt="image" src="https://github.com/user-attachments/assets/ca31cfec-f523-446d-b0ee-68527bf3e006" />
+
+
+
 
 📄 License
 Open-source under the MIT License.
 
 👋 Let's Connect
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/saurav-sanu/)
 
-🐙 GitHub
+🐙 https://github.com/Saurav-sanu
 
 📧 sauravsanu99@gmail.com
 
