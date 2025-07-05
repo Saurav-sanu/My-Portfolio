@@ -48,7 +48,8 @@ export const myProjects = [
       "Organized navigation, academic sections, and dropdown-based menus.",
       "Responsive and accessible layout built for optimal performance.",
     ],
-    href: "",
+
+    href: "https://nsut-website-eight.vercel.app/",
     logo: "",
     image: "/assets/projects/nsut.jpg",
     tags: [
@@ -67,7 +68,7 @@ export const myProjects = [
       "Implemented smooth animations and interactive UI sections.",
       "Optimized for responsiveness and SEO.",
     ],
-    href: "",
+    href: "https://razorpay-clone-omega-liart.vercel.app/",
     logo: "",
     image: "/assets/projects/razorpay.jpg",
     tags: [
