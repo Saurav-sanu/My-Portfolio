@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 ### 📥 Installation
 
-```bash
+
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
 npm install
@@ -98,8 +98,6 @@ Inspiration from top developer portfolios and the open-source community
 
 🔗 Links
 🌐 Live: my-portfolio-umber-tau.vercel.app
-
-🧠 BrainLink Project: brainlink.vercel.app (optional)
 
 🐙 GitHub: github.com/Saurav-sanu
 
