@@ -1,12 +1,111 @@
-# React + Vite
+# 🚀 Personal Portfolio – Saurav Sanu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive, and responsive portfolio website built using **React**, **Vite**, **Tailwind CSS**, and **Three.js**. It showcases my work, skills, and experience in full-stack web development.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [my-portfolio-umber-tau.vercel.app](https://my-portfolio-umber-tau.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ [React](https://reactjs.org/)
+- ⚡ [Vite](https://vitejs.dev/)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 🎮 [Three.js](https://threejs.org/) via [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/)
+- 💬 Framer Motion for animations
+- ☁️ Deployed on [Vercel](https://vercel.com/)
+
+---
+
+## 💡 Features
+
+- 🔥 Animated hero section with 3D astronaut (Three.js)
+- 🎯 Responsive design for all screen sizes
+- 🧠 Project showcase with modal previews
+- 📩 Copy-to-clipboard email interaction
+- 🌗 Dark-styled theme with soft gradients and glass effects
+- ✨ Smooth animations and transitions using Framer Motion
+
+---
+
+## 📂 Folder Structure
+
+📦 my-portfolio/
+┣ 📁 public/ # Static assets
+┣ 📁 src/
+┃ ┣ 📁 components/ # Reusable UI components
+┃ ┣ 📁 sections/ # Page sections like Hero, Projects
+┃ ┣ 📁 assets/ # Images, icons, 3D models
+┃ ┣ 📜 App.jsx # Main component
+┃ ┗ 📜 main.jsx # Entry point
+┣ 📜 index.html
+┣ 📜 tailwind.config.js
+┣ 📜 vite.config.js
+┗ 📜 package.json
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Run in Development
+bash
+Copy
+Edit
+npm run dev
+4. Build for Production
+bash
+Copy
+Edit
+npm run build
+Preview the production build:
+
+bash
+Copy
+Edit
+npm run preview
+📦 Deployment
+This portfolio is continuously deployed using Vercel. On every push to the main branch, Vercel auto-builds and deploys the project.
+
+📸 Screenshots
+Include preview images or animated gifs of the website here.
+
+📄 License
+Open-source under the MIT License.
+
+👋 Let's Connect
+💼 LinkedIn
+
+🐙 GitHub
+
+📧 sauravsanu99@gmail.com
+
+🙏 Acknowledgements
+3D model from Sketchfab
+
+Animations inspired by Framer Motion
+
+Design inspiration from modern developer portfolios
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if:
+- You want help adding **animated GIFs**, **screenshots**, or a **contributions** section
+- Or if you'd like me to generate this in a real `README.md` file you can copy/paste directly 
