@@ -33,9 +33,10 @@ const ProjectsDetails = ({title,description,subDescription,image,tags,href
                 ))}
                 </div>
                 <a className='inline-flex items-center gap-1 font-medium hover-animation'
+                href={href}
                 >View Project
                     <img src="/assets/arrow-up.svg" className='size-4'
-                    href={href}
+                   
                     />
                 </a>
 
