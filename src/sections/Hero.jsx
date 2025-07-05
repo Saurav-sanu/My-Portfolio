@@ -7,11 +7,12 @@ import { useMediaQuery } from 'react-responsive';
 import { easing } from 'maath';
 import { useFrame } from '@react-three/fiber';
 import { Float } from '@react-three/drei';
-import Loader from '../../../new/Portfolio/src/components/Loader';
+import Loader from "../components/Loader";
+
 
 
 const Hero = () => {
-  const isMobile = useMediaQuery({maxWidth: 853});  
+  const isMobile = useMediaQuery({maxWidth: 853});
   return (
     <section className='flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space'>
       <HeroText />
